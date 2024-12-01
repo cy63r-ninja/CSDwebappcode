@@ -1,1 +1,1 @@
-FLAG:{oops,didntmeantoleavethisere}
+FLAG{oops,didntmeantoleavethisere}

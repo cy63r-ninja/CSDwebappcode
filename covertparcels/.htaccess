@@ -1,6 +1,6 @@
 AuthType Basic
 AuthName "Restricted Access"
-AuthUserFile /home/site/wwwroot/.htpasswd
+AuthUserFile /home/site/wwwroot/covertparcels/.htpasswd
 Require valid-user
 
 <FilesMatch "flag\.txt|whereami\.txt|whoami\.txt">
