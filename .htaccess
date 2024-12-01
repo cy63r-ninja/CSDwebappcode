@@ -1,3 +1,0 @@
-<Files ".htpasswd">
-    Require all denied
-</Files>
